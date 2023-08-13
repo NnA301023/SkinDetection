@@ -133,7 +133,7 @@ def about():
 
         """
         st.markdown(desc)
-        set_img_as_background("asset/sensitif.jpg")
+        set_img_as_background("asset/sensitif.jpeg")
     
 
 def interface():
